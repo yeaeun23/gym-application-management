@@ -1,5 +1,4 @@
 # gym-application-management
-헬스장 등록 관리 시스템
 
 ## 1. 사용자 페이지
 
