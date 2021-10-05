@@ -33,6 +33,6 @@
 
 ![gym3](https://user-images.githubusercontent.com/14077108/135230140-3e6af676-7c41-49e5-ab1a-52cf404f33a0.png)
 
-  - 엑셀 파일로 추출할 경우
+* <b>엑셀 파일로 추출할 경우</b>
 
 ![gym4](https://user-images.githubusercontent.com/14077108/135230148-eef36643-90bc-43cd-9f2b-e4d24bad97cb.jpg)
