@@ -15,7 +15,7 @@
 
 ![gym2](https://user-images.githubusercontent.com/14077108/135230082-83ff2f7c-9eba-417e-a635-289ae4ac09ba.png)
 
-  - 연장일 경우
+- * <b>연장일 경우</b>
 
 ![gym1](https://user-images.githubusercontent.com/14077108/135230946-9b3b045b-aa9f-45a5-befe-16095cc5a083.png)
 
